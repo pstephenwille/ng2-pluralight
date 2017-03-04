@@ -4,4 +4,6 @@ typings
 /app/**/*.map
 .vscode/
 
-
+.idea
+.iml
+npm-debug.log
